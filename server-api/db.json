@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": "ec9f9242-f481-4496-b6bd-9f050507c20b",
+      "name": "Hello World",
+      "email": "World"
+    },
+    {
+      "id": "909accce-dd3a-47fa-b25b-65e187435b13",
+      "name": "Hello",
+      "email": "max@gmail.com"
+    }
+  ]
+}
